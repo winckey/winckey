@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&text=Jang%20Hyun%20Jin)
 ### Hi there 👋
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
