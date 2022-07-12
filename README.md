@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=Jang%20Hyun%20Jin)
+<p align="center">![header](https://capsule-render.vercel.app/api?type=slice&text=Jang%20Hyun%20Jin)</p>
 ### Hi there 👋
 
 
