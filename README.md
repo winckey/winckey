@@ -29,7 +29,7 @@
 <p align="center">
   
   
-![winckey's github stats](https://github-readme-stats.vercel.app/api?username=winckey&show_icons=true)
+![winckey's GitHub stats](https://github-readme-stats.vercel.app/api?username=winckey&show_icons=true&theme=radical)
   
   
 </p>
