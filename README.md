@@ -3,8 +3,6 @@
   ![header](https://capsule-render.vercel.app/api?type=slice&text=Jang%20Hyun%20Jin)
   
 </p>
-### Hi there 👋
-
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -25,3 +23,5 @@
 </p>
 
 <br>
+
+![winckey's github stats](https://github-readme-stats.vercel.app/api?username=winckey&show_icons=true)
