@@ -29,8 +29,8 @@
 <div align="center">
 
   ![winckey's GitHub stats](https://github-readme-stats.vercel.app/api?username=winckey&show_icons=true&theme=radical)
-
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=winckey3)](https://solved.ac/winckey3/)
 </div>
 
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=winckey3)](https://solved.ac/winckey3/)
+
