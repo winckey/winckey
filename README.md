@@ -27,14 +27,14 @@
 <br>
 <br>
 <div align="center">
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=winckey)](https://solved.ac/winckey) 
+
+  ![winckey's GitHub stats](https://github-readme-stats.vercel.app/api?username=winckey&show_icons=true&theme=radical)
 
 </div>
 
  <div align="center">
 
-  ![Solved.ac Profile][(http://mazassumnida.wtf/api/v2/generate_badge?boj=winckey3)](https://solved.ac/winckey3/)
-
+[![Solved.ac
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=winckey3)](https://solved.ac/winckey3) 
 </div> 
 
