@@ -27,8 +27,10 @@
 <br>
 <br>
 <div align="center">
-
-  ![winckey's GitHub stats](https://github-readme-stats.vercel.app/api?username=winckey&show_icons=true&theme=radical)
+<!--
+![winckey's GitHub stats](https://github-readme-stats.vercel.app/api?username=winckey&show_icons=true&theme=radical)
+-->
+  
 
 </div>
 
